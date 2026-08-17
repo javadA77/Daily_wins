@@ -1,0 +1,89 @@
+{
+  "currency": "₼",
+  "goals": [
+    {
+      "id": "pz5wuzga",
+      "emoji": "🚶",
+      "name": "Steps",
+      "target": 10000,
+      "unit": "steps",
+      "current": 0,
+      "step": 500,
+      "colorA": "#3987e5",
+      "colorB": "#2a78d6",
+      "_wasComplete": false
+    },
+    {
+      "id": "t9xtboih",
+      "emoji": "💧",
+      "name": "Water",
+      "target": 8,
+      "unit": "glasses",
+      "current": 0,
+      "step": 1,
+      "colorA": "#ffb238",
+      "colorB": "#eb6834",
+      "_wasComplete": false
+    },
+    {
+      "id": "zapzzutj",
+      "emoji": "🛌",
+      "name": "Sleep",
+      "target": 8,
+      "unit": "hours",
+      "current": 0,
+      "step": 1,
+      "colorA": "#2dd4bf",
+      "colorB": "#1baf7a",
+      "_wasComplete": false
+    },
+    {
+      "id": "3mojbn15",
+      "emoji": "🤓",
+      "name": "Reading",
+      "target": 20,
+      "unit": "minutes",
+      "current": 0,
+      "step": 1,
+      "colorA": "#ff5da2",
+      "colorB": "#e87ba4",
+      "_wasComplete": false
+    }
+  ],
+  "jars": [
+    {
+      "id": "5ezwdef5",
+      "emoji": "✈️",
+      "name": "Vacation",
+      "target": 2000,
+      "current": 350,
+      "colorA": "#9085e9",
+      "colorB": "#4a3aa7",
+      "_wasComplete": false
+    },
+    {
+      "id": "qn8ipdr2",
+      "emoji": "🛟",
+      "name": "Emergency Fund",
+      "target": 5000,
+      "current": 1200,
+      "colorA": "#eda100",
+      "colorB": "#c98500",
+      "_wasComplete": false
+    },
+    {
+      "id": "vfp7uonq",
+      "emoji": "🎵",
+      "name": "New Headphones",
+      "target": 150,
+      "current": 40,
+      "colorA": "#3987e5",
+      "colorB": "#2a78d6",
+      "_wasComplete": false
+    }
+  ],
+  "trackingDays": [
+    "2026-08-16"
+  ],
+  "completedDays": []
+}
